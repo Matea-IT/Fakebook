@@ -1,0 +1,29 @@
+h1
+{
+    color: green;
+}
+
+h2
+{
+    color: blue;
+}
+
+h3
+{
+    color: darkviolet;
+}
+
+.violet
+{
+    color: palevioletred;
+}
+
+p1
+{
+    color: lightseagreen;
+}
+
+.image:hover
+{
+    border: 6px green solid;
+}
